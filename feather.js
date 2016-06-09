@@ -1,1 +1,0 @@
-javascript:(function()%7Bvar%20head%20%3D%20document.getElementsByTagName('head')%5B0%5D%3Bvar%20newscript%20%3D%20document.createElement('link')%3Bnewscript.rel%20%3D%20%22stylesheet%22%3Bnewscript.href%3D'http%3A%2F%2Fkingpixil.github.io%2FFeather%2Fdist%2Fcss%2Ffeather.min.css'%3Bhead.appendChild(newscript)%7D)()
