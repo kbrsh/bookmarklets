@@ -1,1 +1,1 @@
-javascript:void%20function(){var%20e=document.createElement(%22link%22);e.rel=%22stylesheet%22,e.href=%22//usewing.ml/dist/wing.min.css%22,document.getElementsByTagName(%22head%22)[0].appendChild(e)}();
+javascript:void%20function(){var%20e=document.createElement(%22link%22);e.rel=%22stylesheet%22,e.href=%22http://usewing.ml/dist/wing.min.css%22,document.getElementsByTagName(%22head%22)[0].appendChild(e)}();
